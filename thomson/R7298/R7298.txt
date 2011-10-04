@@ -1,0 +1,95 @@
+Content of version	: R7298
+
+------------------------------------------------------------------------
+package name		md5 check sum						License
+------------------------------------------------------------------------
+bftpd				7a8e1edbbb69bd1c952786e7215bf46b	GPL_V2
+bluez				5d241c91e0c596fbe9a8513b4013e3dd	GPL_V2
+bridge-utils		011ed2fdf5b86a3f23c4448e600732ac	GPL_V2
+busybox-1.01		153494f4ae184d3c6c12995e5b73ea43	GPL_V2
+busybox				bcace6f55df6460bd930e6ea2376dedd	GPL_V2
+dhcp_relay			71da9047e2bac776c03e09f114648ee1	GPL_V2
+dhcpcd-1.3.22-pl4	6fbe31b45bd6bd8daf7a5c8ae3b3649e	GPL_V2
+dhcpcd				a8533a6f103264b5858555cd5b202280	GPL_V2
+dnsmasq				4b83d7d690b48e45d3053edd3fddf58b	GPL_V2
+e2fsprogs			cb33c0d14adf25d44f83dc6f66f172fc	GPL_V2
+ebtables-2.6		eb35ed8bc7ce3677186cb477c7f8170f	GPL_V2
+ebtables			54cc37457666d75b7cfce98447134660	GPL_V2
+ftdi				994e3970eaa5c68940def0256ff77329	GPL_V2
+ftp					e8a591a3f44c2f7004a1476e8f7a7335	BSD
+getopt				69debfdb70354bd9d145d1cd36a81745	LGPL_V2.1
+iproute2-2.6		4f05470a81825957f8e55bb67f5562ef	GPL_V2
+iproute2			3c30bef9f80926eead8ef955b4f9811a	GPL_V2
+iptables-2.6		b9d13821fb3f43cc83012d283931d2fb	GPL_V2
+iptables			488be6390639ceb309d9c4f2422a23c6	GPL_V2
+l2tpd				9502509654694062514e92525c2bbf43	GPL_V2
+liblzma				75ce53969bae7ba1faead6dd89c91518	LGPL_V2.1
+libusb-0.1.7		895d9bbb042e1129e49de899298de330	LGPL_V2.1
+linux-2.6.12		d33001b83980a4e367e281aa110f21a8	GPL_V2
+memul				4c936c3ee914d6856589377c4ac4f742	GPL_V2
+mini_httpd			d01e2e9043fac98c9d4bcb7c315dad82	GPL_V2
+ntpclient			628318ed9a1457e2b4fdc01ca43f7e16	GPL_V2
+pcmcia-cs			f3e195d2615270b7bcf042d5da5072cc	GPL_V2
+ppp					402466b4b70c11714bdf94f2e49f2a09	GPL_V2
+prism2				3d95b80b29b846f16605b423f66cf2b1	GPL_V2
+procps				49c94409d794917044aed727f3166f46	GPL_V2
+reaim				8e19769eb035a8c2e46c41c775ccb40c	GPL_V2
+redboot_fconfig		3ff321ebf0d56e807ac5dc34e01579dd	SPECIFIC
+samba				c89c685782d1867a59c1ff6c9c72e921	GPL_V2
+smtpclient			71f2ca07bab423bfd6785daeaca16e5b	GPL_V2
+storage				96e66a0c965187a0a53c489404129730	MPL_V1.1
+udhcp				7d00386c4d7631bf49ff211611e0e7e3	GPL_V2
+updatedd-1.6		6e54eb2855b162ce0c0f311df992d5b8	LGPL_V2.1
+usbmgr-0.4.8		29984336928fac1c4be1de893933cbaf	GPL_V2
+usbmgr				ee0f2772cc4b350424c71d010a69f0a4	GPL_V2
+vlan				f6ff93ce52b0196f0800148ed60df8c2	GPL_V2
+wget				2f86a108ebddd57f3e5dc151e29466f1	GPL_V2
+wireless_tools		2bcb1e0c1fcc27858ffabb620e561ca9	GPL_V2
+------------------------------------------------------------------------
+These files are as they were made available by Thomson on their site.
+
+They were only slightly re-archived into proper tarballs.
+------------------------------------------------------------------------
+
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/bftpd.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/bluez.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/bridge-utils.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/busybox-1.01.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/busybox.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/dhcp_relay.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/dhcpcd-1.3.22-pl4.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/dhcpcd.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/dnsmasq.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/e2fsprogs.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/ebtables-2.6.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/ebtables.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/ftdi.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/ftp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/getopt.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/iproute2-2.6.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/iproute2.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/iptables-2.6.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/iptables.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/l2tpd.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/liblzma.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/libusb-0.1.7.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/linux-2.6.12.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/memul.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/mini_httpd.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/ntpclient.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/pcmcia-cs.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/ppp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/prism2.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/procps.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/reaim.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/redboot_fconfig.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/samba.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/smtpclient.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/storage.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/udhcp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/updatedd-1.6.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/usbmgr-0.4.8.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/usbmgr.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/vlan.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/wget.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1.2/Thomson/vR7298/wireless_tools.tar.bz2
